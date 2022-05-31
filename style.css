@@ -1,0 +1,64 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.post-header {
+  background-color: rgb(218, 214, 214) ;
+  display: flex;
+  text-align:left;
+  height: 5%;
+}
+
+.post-footer{
+  background-color: rgb(218, 214, 214);
+  }
+
+.left{
+  float: left;
+  width: 10%;
+  margin: auto;
+}
+
+.right {
+  float: right;
+  width: 10%;
+}
+
+.center {
+  display:inline-block;
+  width: 80%;
+}
+
+#dots {
+  position: relative;
+  float: right;
+  top: 20px;
+  right: 10px;
+  cursor: pointer;
+}
+
+#logo {
+  position: relative;
+  left: 2px;
+}
+
+.post{
+  width: 400px;
+  margin: 0 auto;
+  border: 1px black;
+}
+
+.img{
+  width: 100%;
+}
+
+.icons{
+  padding: 2px;
+  cursor: pointer;
+}
+
+.flag{
+  float: right;
+}
+
+
